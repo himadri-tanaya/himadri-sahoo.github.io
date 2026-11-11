@@ -1,0 +1,10 @@
+
+# Ignore Quarto temporary files
+/.quarto/
+
+# Ignore default generated website output
+/_site/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
