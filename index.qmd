@@ -1,0 +1,86 @@
+
+
+
+---
+title: "Dr. Himadri Sahoo"
+toc: false
+format:
+  html:
+    page-layout: article
+    body-classes: home-page
+    grid:
+      body-width: 1100px
+---
+
+
+
+
+
+:::: {.homepage-hero layout="[35,65]"}
+
+::: {#profile-photo}
+
+![](images/profile.jpg){width=100%}
+
+:::
+
+::: {#introduction}
+
+# Dr. Himadri Sahoo
+
+## Scientist | Quantum & Complex Photonic Systems
+
+
+*Harnessing nonlinear and non-Hermitian dynamics
+for the next generation of photonic technologies.*
+
+I am a scientist exploring quantum and complex
+photonic systems, driven by a curiosity to
+understand, control, and harness the dynamics
+of light.
+
+Currently, I am a Postdoctoral Researcher
+in the Nonlinear NanoPhotonics Group at the
+University of Twente, Netherlands.
+
+:::
+
+
+::::
+
+
+
+
+
+## Explore My Work
+
+
+:::: {.work-grid}
+
+::: {#research-summary}
+
+### Research
+
+Exploring quantum and complex photonic systems,
+from fundamental wave dynamics to emerging
+technologies in sensing, communications,
+and information processing.
+
+[Explore my research](research.qmd)
+
+:::
+
+::: {#current-focus}
+
+### Teaching, Leadership & Outreach
+
+Beyond the laboratory, I am actively involved
+in scientific mentorship, education, research
+community building, and initiatives promoting
+inclusive scientific environments.
+
+:::
+
+::::
+
+

@@ -1,0 +1,27 @@
+
+---
+title: "Research"
+---
+
+# Research Directions
+
+My research explores the physics of quantum
+and complex photonic systems, connecting
+fundamental wave dynamics with emerging
+photonic technologies.
+
+## Complex Wave Transport
+
+Understanding light propagation, scattering,
+and disorder in complex environments.
+
+## Nonlinear and Non-Hermitian Photonics
+
+Exploring nonlinear interactions, exceptional
+points, and programmable photonic dynamics.
+
+## Quantum and Integrated Photonics
+
+Developing photonic platforms and methods
+for quantum technologies, secure communication,
+and information processing.
